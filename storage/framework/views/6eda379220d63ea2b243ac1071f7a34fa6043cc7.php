@@ -1,0 +1,23 @@
+<ul class="elitteh-side-nav">
+  <li class="side-nav-title"><span>Зерноочистительные комплексы</span></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/kz-25">КЗ–25</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/kz-50">КЗ–50</a></li>
+  <li class="side-nav-title"><span>Зерноочистительные сепараторы</span></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/bcs25">БЦС–25</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/bcs50">БЦС–50</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/sad">САД</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/ovs-25">ОВС–25</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/b32-o">БЗ2–О</a></li>
+  <li class="side-nav-title"><span>Зерносушилки</span></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/dryers_for_wood">Зерносушилки на дровах</a></li>
+  <li class="side-nav-title"><span>Транспортное оборудование</span></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/norii">Нории</a></li>
+  <li class="side-nav-title"><span>Погрузочное навесное оборудование</span></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/snu-550">СНУ–550</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/pku-08">ПКУ–0,8</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/pbm-800">ПБМ–800</a></li>
+  <li class="side-nav-title"><span>Зернометатели и зернопогрузчики</span></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/zm-100">ЗМ–100</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/zm-60">ЗМ–60</a></li>
+        <li><a href="/web/20161031013034/http://elitteh.com.ua:80/kshp">КШП</a></li>
+</ul>
